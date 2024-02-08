@@ -1,2 +1,4 @@
 # COMP-5600
-Artificial Intelligence @ Auburn University
+- 💻 Artificial Intelligence<br />
+- :fire: Dr. Dean Hendrix<br />
+- 📚 Auburn University
